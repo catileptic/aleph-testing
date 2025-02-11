@@ -18,6 +18,7 @@ imports, please check the documentation at:
 * https://docs.aleph.occrp.org
 * Installation: https://docs.aleph.occrp.org/developers/installation
 
+TEST
 
 Support
 -------

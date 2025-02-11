@@ -35,7 +35,7 @@ format-ui:
 	$(UIDOCKER) npm run format
 
 format-check:
-	black --check $(BLACK_OPTS) aleph/
+	poetry run black --check $(BLACK_OPTS) aleph/
 
 format-check-ui:
 	$(UIDOCKER) npm run format:check

@@ -1,6 +1,6 @@
 .. epigraph::
 
-  Truth cannot penetrate a closed mind. If all places in the universe are in
+  TESTTruth cannot penetrate a closed mind. If all places in the universe are in
   the Aleph, then all stars, all lamps, all sources of light are in it, too.
 
   -- `The Aleph <http://www.phinnweb.org/links/literature/borges/aleph.html>`_,

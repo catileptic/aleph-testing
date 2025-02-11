@@ -29,7 +29,7 @@ lint-ui:
 	$(UIDOCKER) npm run lint
 
 format:
-	black $(BLACK_OPTS) aleph/
+	poetry run black $(BLACK_OPTS) aleph/
 
 format-ui:
 	$(UIDOCKER) npm run format
